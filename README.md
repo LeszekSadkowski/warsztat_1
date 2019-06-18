@@ -1,2 +1,2 @@
-# warsztat_1
-w tym pliku rysowane są literki svg z wypełnieniem
+# workshop 1
+in this file svg letters with filling are drawn
